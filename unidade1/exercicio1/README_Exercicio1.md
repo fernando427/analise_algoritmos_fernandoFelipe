@@ -37,4 +37,4 @@ Alvo buscado: 999998
 | 100.000          | 0,7102            | 0,0022             |
 | 1.000.000        | 0,2702            | 0,0747             |
 
-A ordem de complexidade da busca linear, com o próprio nome já diz, é O(n). Sendo assim, o número de operações cresce de acordo com o número de elementos. Diferente da busca binária, que usa O(log n) com o "dividir para conquistar", pegando problemas grandes e quebrando em problemas menores, se tornando muito mais eficiente que o O(n) conforme o número de elementos vai crescendo.
+A ordem de complexidade da busca linear, como o próprio nome já diz, é O(n). Sendo assim, o número de operações cresce de acordo com o número de elementos. Diferente da busca binária, que usa O(log n) com o "dividir para conquistar", pegando problemas grandes e quebrando em problemas menores, se tornando muito mais eficiente que o O(n) conforme o número de elementos vai crescendo.
