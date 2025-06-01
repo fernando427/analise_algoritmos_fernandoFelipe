@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class aula3{
+public class Busca {
     
     public static void main(String[]args){
         int tamanho = 10000000;
